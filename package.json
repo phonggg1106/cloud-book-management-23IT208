@@ -17,5 +17,8 @@
     "express-handlebars": "^9.0.2",
     "express-session": "^1.19.0",
     "mongoose": "^9.11.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
